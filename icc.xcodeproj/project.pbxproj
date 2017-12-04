@@ -137,6 +137,7 @@
 		8E48497F1FD1438800D7231A /* WDA4CardViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E48497E1FD1438800D7231A /* WDA4CardViewController.m */; };
 		8E4849811FD14C4000D7231A /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E4849801FD14C4000D7231A /* Media.xcassets */; };
 		8E4849831FD1566900D7231A /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E4849821FD1566900D7231A /* Launch Screen.storyboard */; };
+		8E4849851FD5469900D7231A /* IMG_2768.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 8E4849841FD5469900D7231A /* IMG_2768.PNG */; };
 		8EE1AFE71F1CCF7C002CBB8D /* ios.h in Headers */ = {isa = PBXBuildFile; fileRef = 8EE1AFE51F1CCF7C002CBB8D /* ios.h */; };
 		8EE1AFE81F1CCF7C002CBB8D /* ios.h in Headers */ = {isa = PBXBuildFile; fileRef = 8EE1AFE51F1CCF7C002CBB8D /* ios.h */; };
 		8EE1AFE91F1CCF7C002CBB8D /* ios.mm in Sources */ = {isa = PBXBuildFile; fileRef = 8EE1AFE61F1CCF7C002CBB8D /* ios.mm */; };
@@ -813,6 +814,7 @@
 		8E48497E1FD1438800D7231A /* WDA4CardViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WDA4CardViewController.m; sourceTree = "<group>"; };
 		8E4849801FD14C4000D7231A /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
 		8E4849821FD1566900D7231A /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = SOURCE_ROOT; };
+		8E4849841FD5469900D7231A /* IMG_2768.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_2768.PNG; sourceTree = "<group>"; };
 		8EE1AFE51F1CCF7C002CBB8D /* ios.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ios.h; path = Classes/ios.h; sourceTree = "<group>"; };
 		8EE1AFE61F1CCF7C002CBB8D /* ios.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = ios.mm; path = Classes/ios.mm; sourceTree = "<group>"; };
 		92122C2C1B8C3791004D705E /* GLKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLKit.framework; path = System/Library/Frameworks/GLKit.framework; sourceTree = SDKROOT; };
@@ -2008,6 +2010,7 @@
 		B53B413616D6B61500560A6B /* Bundled resources */ = {
 			isa = PBXGroup;
 			children = (
+				8E4849841FD5469900D7231A /* IMG_2768.PNG */,
 				2DE7CA2517BD94F300D54383 /* card_io_logo_black.png */,
 				2DE7CA2617BD94F300D54383 /* card_io_logo_black@2x.png */,
 			);
@@ -2327,6 +2330,7 @@
 				A553B6F11BE32273006DF551 /* MainWindow~iPad.xib in Resources */,
 				A553B6F21BE32273006DF551 /* yellow_button@2x.png in Resources */,
 				A553B6F31BE32273006DF551 /* yak_icon@2x.png in Resources */,
+				8E4849851FD5469900D7231A /* IMG_2768.PNG in Resources */,
 				A553B6F41BE32273006DF551 /* yak_icon.png in Resources */,
 				A553B6F51BE32273006DF551 /* yak_icon~ipad.png in Resources */,
 				A553B6F61BE32273006DF551 /* card_io_logo_black.png in Resources */,
