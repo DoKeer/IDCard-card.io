@@ -2234,7 +2234,7 @@
 						CreatedOnToolsVersion = 7.0;
 					};
 					A553B6E51BE32273006DF551 = {
-						DevelopmentTeam = 42R3F27PV4;
+						DevelopmentTeam = DCF2LUV98W;
 					};
 				};
 			};
@@ -2730,7 +2730,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = A50A54B41BE2F7A800B669FB /* icc_Debug.xcconfig */;
 			buildSettings = {
-				DEVELOPMENT_TEAM = 42R3F27PV4;
+				DEVELOPMENT_TEAM = DCF2LUV98W;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -2739,7 +2739,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LIBTOOLFLAGS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = com.ielpm.unity;
+				PRODUCT_BUNDLE_IDENTIFIER = com.lshiyig.lgq;
 			};
 			name = Debug;
 		};
@@ -2747,7 +2747,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = A50A54B51BE2F7A800B669FB /* icc_Release.xcconfig */;
 			buildSettings = {
-				DEVELOPMENT_TEAM = 42R3F27PV4;
+				DEVELOPMENT_TEAM = DCF2LUV98W;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -2755,7 +2755,7 @@
 				);
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.ielpm.unity;
+				PRODUCT_BUNDLE_IDENTIFIER = com.lshiyig.lgq;
 			};
 			name = Release;
 		};
@@ -2763,7 +2763,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = A50A54B31BE2F7A800B669FB /* icc_AdHoc.xcconfig */;
 			buildSettings = {
-				DEVELOPMENT_TEAM = 42R3F27PV4;
+				DEVELOPMENT_TEAM = DCF2LUV98W;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -2771,7 +2771,7 @@
 				);
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.ielpm.unity;
+				PRODUCT_BUNDLE_IDENTIFIER = com.lshiyig.lgq;
 			};
 			name = AdHoc;
 		};
