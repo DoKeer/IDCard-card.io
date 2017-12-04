@@ -6,4 +6,4 @@ todo:1.添加身份证正反面内容识别。
      2.添加储蓄卡卡号识别
      
 ## 2、图片示例
-![示例](https://github.com/wightDom/IDCard-card.io/IMG_2768.PNG)
+![示例](https://github.com/wightDom/IDCard-card.io/blob/master/IMG_2768.PNG)
